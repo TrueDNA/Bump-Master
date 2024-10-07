@@ -1,10 +1,12 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/MMproBump_bot?start=ref_7420057470)
+[Join Bump Master](https://t.me/MMproBump_bot?start=ref_6142904262)
+
+[![Static Badge](https://t.me/MMproBump_bot?start=ref_6142904262)
 
 ## Recommendation before use
 
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
-> 🇷 🇺 README in russian available [here](README-RU.md)
+> 🇷 🇺 README in russian available [here](https://t.me/MMproBump_bot?start=ref_6142904262)
 
 ## Features  
 | Feature                                                   | Supported |
@@ -20,7 +22,7 @@
 | Auto-daily                                                |     ✅     |
 
 
-## [Settings](https://github.com/Desamod/MMproBump_bot/blob/master/.env-example/)
+## [Settings](https://t.me/MMproBump_bot?start=ref_6142904262)
 | Settings                |                                 Description                                 |
 |-------------------------|:---------------------------------------------------------------------------:|
 | **API_ID / API_HASH**   | Platform data from which to run the Telegram session (by default - android) |
@@ -39,7 +41,7 @@ To fast install libraries and run bot - open run.bat on Windows or run.sh on Lin
 
 ## Prerequisites
 Before you begin, make sure you have the following installed:
-- [Python](https://www.python.org/downloads/) **version 3.10**
+- [Python](https://t.me/MMproBump_bot?start=ref_6142904262) **version 3.10**
 
 ## Obtaining API Keys
 1. Go to my.telegram.org and log in using your phone number.
@@ -47,7 +49,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/Desamod/MMproBump_bot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://t.me/MMproBump_bot?start=ref_6142904262) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/Desamod/MMproBump_bot.git
 cd MMproBump_bot
